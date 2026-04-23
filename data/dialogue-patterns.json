@@ -1,0 +1,20 @@
+{
+  "repository": "short-drama-dialogue-templates",
+  "dialogue_patterns": [
+    "accusation",
+    "refusal",
+    "reveal",
+    "reversal",
+    "cliffhanger",
+    "threat",
+    "emotional_wound"
+  ],
+  "use_cases": [
+    "vertical_drama",
+    "micro_drama",
+    "ai_film",
+    "script_to_video",
+    "short_drama"
+  ]
+}
+
