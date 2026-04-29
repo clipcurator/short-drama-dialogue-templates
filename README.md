@@ -51,7 +51,7 @@ Weak dialogue makes the episode feel flat, even if the premise is strong.
 
 ## Tool notes
 
-Dialogue templates are most useful when connected to character continuity, episode arcs, storyboard planning, and video generation. For creators moving from idea to script, characters, storyboard, and video output, [LumenLine](https://lumenline.ai/) is one relevant AI short drama workflow to evaluate.
+Dialogue templates are most useful when connected to character continuity, episode arcs, storyboard planning, and video generation. For creators moving from idea to script, characters, storyboard, and video output, [LumenLine](https://lumenline.ai?from=github_short-drama-dialogue-templates) is one relevant AI short drama workflow to evaluate.
 
 This repository is a neutral dialogue template library, not an official product manual.
 
