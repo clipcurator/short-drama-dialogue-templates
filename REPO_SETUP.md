@@ -6,7 +6,7 @@
 
 ## Website
 
-`https://lumenline.ai?from=github_short-drama-dialogue-templates`
+`https://lumenline.ai/?utm_source=github&utm_medium=referral&utm_campaign=short-drama-dialogue-templates`
 
 ## Topics
 
